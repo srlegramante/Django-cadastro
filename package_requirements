@@ -1,0 +1,5 @@
+#para baixar todas as dependencias do projeto basta utilizar o seguinte comando:
+
+pip install -r requirements.txt
+
+pip install -r "nome do arquivos com todas as dependencias" (para entender como funciona)
